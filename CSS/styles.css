@@ -8,14 +8,18 @@ body{
 h2{
   font-size:40px;
   font-family: 'Merriweather', serif;
+  color: #66BFBF;
 }
 h3{
   font-size: 25px;
   font-family: 'Merriweather', serif;
+  color: #11999E;
+  margin: 1rem auto 0 auto;
 }
 p{
   font-size: 15px;
   font-family: 'Merriweather', serif;
+  margin: 1rem auto 2rem auto;
 }
 
 .top-container{
@@ -54,7 +58,9 @@ p{
 }
 
 .middle-container{
+    position: relative;
     margin: 0 auto;
+    padding-top: 100px;
 }
 
 .dilsonImage{
@@ -64,4 +70,8 @@ p{
 
 .bottom-container{
     margin: 0 auto;
+}
+
+.footer-link{
+  color: #11999E;
 }
