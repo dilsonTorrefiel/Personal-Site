@@ -31,7 +31,7 @@ hr{
 .top-container{
     background-color: #d4f3ef;
     position: relative;
-    padding-top: 11rem;
+    padding-top: 10rem;
   }
 .name{
     font-size: 5.625rem;
@@ -49,7 +49,7 @@ hr{
 .top-cloud{
     position: absolute;
     width: 12rem;
-    right: 15%;
+    margin: auto auto auto 25%;;
   }
 .middle-cloud{
     position: absolute;
@@ -79,7 +79,7 @@ hr{
     margin: auto;
   }
 .web{
-    width: 25%;
+    width: 15rem;
     float: right;
     margin-left: 2rem;
   }
