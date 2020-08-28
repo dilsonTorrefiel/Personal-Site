@@ -107,7 +107,7 @@ hr{
   }
 
 .btn {
-    background-color: #00ced1; /* darkturquoise */
+    background-color: #00bfff; /* darkturquoise */
     border: none;
     border-radius: 2.5rem;
     color: white;
@@ -144,7 +144,7 @@ hr{
 .footer-link{
     background: none;
     border-radius: 2rem;
-    color: #11999E;
+    color: 	#008b8b;
     text-decoration: none;
     font-size: 1.5rem;
     font-family: 'Montserrat', sans-serif;
@@ -156,7 +156,7 @@ hr{
   }
 .footer{
     font-size: 1.25rem;
-    font-family: 'Merriweather', serif;
+    font-family: 'Montserrat', sans-serif;
     color: #f8f8ff;
     padding: 0 0 1rem 0;
   }
