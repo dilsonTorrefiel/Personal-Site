@@ -10,6 +10,7 @@ h2{
     font-size:3rem;
     font-family: 'Montserrat', sans-serif;
     color: #66BFBF;
+    margin: 30px auto;
   }
 h3{
     font-size: 1.5rem;
@@ -81,33 +82,28 @@ hr{
 .web{
     width: 15rem;
     float: right;
-    margin-left: 2rem;
+    margin-left: 1%;
   }
-.web-message{
-    width: 100%;
-  }
-.web-design{
-    width: 100%;
-  }
+
 .hmi{
     width: 15rem;
     float: left;
-    margin-right: 2rem;
+    margin-right: 1rem;
   }
 .plc{
     width: 15rem;
     float: right;
-    margin-left: 2rem;
+    margin-left: 1%;
   }
 .database{
     width: 15rem;
     float: left;
-    margin-right: 2rem;
+    margin-right: 1rem;
   }
 ._3dModelling{
     width: 15rem;
     float: right;
-    margin-left: 2rem;
+    margin-left: 1%;
   }
 
 .btn {
