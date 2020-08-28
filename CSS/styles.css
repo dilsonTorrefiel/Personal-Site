@@ -48,12 +48,12 @@ hr{
   }
 .top-cloud{
     position: absolute;
-    width: 12rem;
+    width: 10%;
     margin: auto auto auto 25%;;
   }
 .middle-cloud{
     position: absolute;
-    width: 12rem;
+    width: 10%;
     left: 18%;
     top: 45%;
   }
