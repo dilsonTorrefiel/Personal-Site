@@ -69,8 +69,7 @@ hr{
   }
 
 .skill-row{
-  display: block;
-    width: 50%;
+    width: 100%;
     margin: 100px auto;
     text-align: left;
   }
@@ -80,7 +79,7 @@ hr{
     margin: auto;
   }
 .web{
-    width: 25%;
+    width: 15rem;
     float: right;
     margin-left: 2rem;
   }
